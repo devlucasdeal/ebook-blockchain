@@ -59,6 +59,10 @@ Projeto com o objetivo de gerar um **eBook digital** com as facilidades das ferr
 
 🚀 **O código está escrito. O futuro é inquebrável.**  
 
-📌 **Conecte-se comigo:**  
-🔗 LinkedIn: [Seu LinkedIn aqui]  
-💻 **Repositório GitHub:** [Coloque o link aqui]  
+## 👋 DESPEDIDA
+
+Abaixo deixo meu linkedln, onde pretendo documentar toda a minha jornada de aprendizado dentro do universo da programação e conhecer novas pessoas dentro do mercado de blockchain que é o meu foco. Vai ser uma alegria te ter por la!
+
+| REDE | CLIQUE E SIGA |
+|------|---------------|
+| LINKEDLN | [CLIQUE AQUI](https://www.linkedin.com/in/lucasblocksec/) |
