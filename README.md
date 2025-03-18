@@ -7,7 +7,7 @@ Projeto com o objetivo de gerar um **eBook digital** com as facilidades das ferr
 ---
 
 ## 📕 **Clique aqui para ler o eBook**  
-📄 [Baixar o eBook (PDF)](coloque_o_link_aqui)  
+📄 [Baixar o eBook (PDF)]([coloque_o_link_aqui](https://github.com/devlucasdeal/ebook-blockchain/blob/main/O%20C%C3%93DIGO%20DA%20ARQUITETURA%20INQUEBR%C3%81VEL.pdf))  
 
 ---
 
